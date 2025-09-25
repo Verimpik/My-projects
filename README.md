@@ -1,2 +1,5 @@
+# Проект 2025.docx
+
 Design and development of a database for selling airline tickets
+
 During the project, a database was developed for a company selling airline tickets. The team created infological and datalogical models, implemented business processes, set up indexes, queries, triggers, functions, views and procedures. The tables were also filled with randomly generated data, and based on the database, reports and dashboards with visualization in Excel and Power BI were created.
